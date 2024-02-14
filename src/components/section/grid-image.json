@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_section_grid_images",
+  "info": {
+    "displayName": "grid-image",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}

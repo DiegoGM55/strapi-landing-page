@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_section_grid_texts",
+  "info": {
+    "displayName": "grid-text"
+  },
+  "options": {},
+  "attributes": {
+    "tilte": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
